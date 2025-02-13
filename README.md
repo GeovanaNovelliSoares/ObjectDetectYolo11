@@ -17,7 +17,7 @@ Modelos: 🔗https://docs.ultralytics.com/pt/models/yolo11/
 Vou deixar disponível para download o link do video utilizado no projeto. Acesse o link abaixo: 👇
 🔗https://drive.google.com/file/d/1X_HzYl2GKVpR4BQrMBSCTv8otsES66WN/view?usp=sharing (Deixei hospedado no google drive para melhor manipulação). 
 
-❗Para funcionar o código em sua máquina, baixe o vídeo e altere diretamente o caminho dedsta linha de código, pois é onde realiza a leitura e captura do vídeo escolhido:
+❗Para funcionar o código em sua máquina, baixe o vídeo e altere diretamente o caminho desta linha de código, pois é onde realiza a leitura e captura do vídeo escolhido:
       👾cap = cv2.VideoCapture("C:\\Users\\genov\\Documents\\vecteezy_turkey-istanbul-12-january-2023-traffic-in-a-high-away-in_24222097.mp4").
 
 
