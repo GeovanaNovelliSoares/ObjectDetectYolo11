@@ -7,7 +7,7 @@ Universo da visão computacional! 🌐<br/>
 
 📃 Deixei abaixo as documentações que usei como fundamentações para a realização do projeto: 
 
-Codigo da Biblioteca Ultralytics: 🔗https://docs.ultralytics.com/guides/object-counting/#__tabbed_1_3
+Código da Biblioteca Ultralytics: 🔗https://docs.ultralytics.com/guides/object-counting/#__tabbed_1_3
 <br/>
 Lista de Objetos: 🔗https://docs.ultralytics.com/datasets/segment/coco/
 <br/>
